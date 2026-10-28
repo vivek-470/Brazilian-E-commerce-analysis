@@ -44,4 +44,16 @@ An end-to-end data engineering, business intelligence, and predictive machine le
 
 ## 💡 Key Business Insights
 
-- **The "Satisfaction Cliff":** Orders
+- **The "Satisfaction Cliff":** Orders delivered on time maintain an average review score of **4.29 / 5.00**. Scores drop drastically to **2.56 stars** for 1–3 day delays and collapse to **1.70 stars** when shipments exceed 8+ days of delay.
+- **Regional Bottlenecks:** While national delivery averages **12.50 days**, distant northern and northeastern states (Roraima `RR`, Amapá `AP`, Amazonas `AM`) experience severe fulfillment latency averaging **25–29 days**.
+- **Commercial Dominance:** The Southeastern metropolitan corridor (São Paulo `SP`, Rio de Janeiro `RJ`, Minas Gerais `MG`) drives over **70%** of total order volume and revenue.
+- **Payment Behavior:** Credit cards represent **75.32%** of all customer transactions, followed by Boleto bancário (**19.44%**).
+
+---
+
+## 🚀 Running the Streamlit App Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/vivek-470/Brazilian-E-commerce-analysis.git](https://github.com/vivek-470/Brazilian-E-commerce-analysis.git)
+   cd Brazilian-E-commerce-analysis
